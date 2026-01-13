@@ -13,3 +13,5 @@ This is a beginner Python project created as part of my internship.
 2. Navigate to the project folder
 3. Run:
    python personal_info.py
+
+This project was uploaded successfully to GitHub.
