@@ -1,6 +1,6 @@
 # Personal Information Manager
 
-This is a beginner Python project created as part of my internship.
+This is my first Python project. It is a program that stores and displays personal information.
 
 ## Features
 - Stores personal information
