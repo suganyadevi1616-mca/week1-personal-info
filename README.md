@@ -14,4 +14,3 @@ This is a beginner Python project created as part of my internship.
 3. Run:
    python personal_info.py
 
-This project was uploaded successfully to GitHub.
